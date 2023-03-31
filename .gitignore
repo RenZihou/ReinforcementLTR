@@ -1,0 +1,7 @@
+data/
+runs/
+.idea/
+*/__pycache__/
+
+*.pyc
+
